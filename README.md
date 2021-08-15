@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Popelawrence
 - 👀 I’m interested in Mobile Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Responsive Web Designs projects
+- 💞️ I’m looking to collaborate on Responsive Web Design projects
 - 📫 How to reach me lawrenceakinro@gmail.com
 
 <!---
