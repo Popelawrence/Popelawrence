@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Popelawrence
-- 👀 I’m interested in Mobile Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Responsive Web Design projects
+- 👀 I’m interested in Data Analyses and Cloud Architecture
+- 🌱 I’m currently learning to improve my multicloud skills (particularly GCP and AWS)
+- 💞️ I’m looking to collaborate on Python and DevOps projects
 - 📫 How to reach me lawrenceakinro@gmail.com
 
 <!---
