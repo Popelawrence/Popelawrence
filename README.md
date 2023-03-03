@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Popelawrence
+- 👋 Hi, my name is Lawrence (@Popelawrence)
 - 👀 I’m interested in Data Analyses and Cloud Architecture
 - 🌱 I’m currently learning to improve my multicloud skills (particularly GCP and AWS)
 - 💞️ I’m looking to collaborate on Python and DevOps projects
